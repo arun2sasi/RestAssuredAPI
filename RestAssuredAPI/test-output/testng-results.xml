@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+    <line>
+      <![CDATA[TestCase 1: ]]>
+    </line>
+    <line>
+      <![CDATA[Test Data  1]]>
+    </line>
+    <line>
+      <![CDATA[Domain name is  gmail.com]]>
+    </line>
+    <line>
+      <![CDATA[Test Data  2]]>
+    </line>
+    <line>
+      <![CDATA[Domain name is  yahoo.com]]>
+    </line>
+    <line>
+      <![CDATA[TestCase 4: ]]>
+    </line>
+    <line>
+      <![CDATA[Test Data  1]]>
+    </line>
+    <line>
+      <![CDATA[status is  failure]]>
+    </line>
+    <line>
+      <![CDATA[Test Data  2]]>
+    </line>
+    <line>
+      <![CDATA[status is  failure]]>
+    </line>
+    <line>
+      <![CDATA[TestCase 3: ]]>
+    </line>
+    <line>
+      <![CDATA[Test Data  1]]>
+    </line>
+    <line>
+      <![CDATA[status is  success]]>
+    </line>
+    <line>
+      <![CDATA[Test Data  2]]>
+    </line>
+    <line>
+      <![CDATA[status is  success]]>
+    </line>
+    <line>
+      <![CDATA[TestCase 6: ]]>
+    </line>
+    <line>
+      <![CDATA[Test Data  1]]>
+    </line>
+    <line>
+      <![CDATA[Input Email is  johndoe@gmail.com]]>
+    </line>
+  </reporter-output>
+  <suite started-at="2021-06-07T06:01:16Z" name="Default suite" finished-at="2021-06-07T06:01:26Z" duration-ms="10205">
+    <groups>
+    </groups>
+    <test started-at="2021-06-07T06:01:16Z" name="Default test" finished-at="2021-06-07T06:01:26Z" duration-ms="10205">
+      <class name="testcase.EmailAPI">
+        <test-method is-config="true" signature="readExcel()[pri:0, instance:testcase.EmailAPI@663c9e7a]" started-at="2021-06-07T08:01:15Z" name="readExcel" finished-at="2021-06-07T08:01:16Z" duration-ms="1209" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- readExcel -->
+        <test-method signature="driverModule()[pri:0, instance:testcase.EmailAPI@663c9e7a]" started-at="2021-06-07T08:01:16Z" name="driverModule" finished-at="2021-06-07T08:01:26Z" duration-ms="10186" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[TestCase 1: ]]>
+            </line>
+            <line>
+              <![CDATA[Test Data  1]]>
+            </line>
+            <line>
+              <![CDATA[Domain name is  gmail.com]]>
+            </line>
+            <line>
+              <![CDATA[Test Data  2]]>
+            </line>
+            <line>
+              <![CDATA[Domain name is  yahoo.com]]>
+            </line>
+            <line>
+              <![CDATA[TestCase 4: ]]>
+            </line>
+            <line>
+              <![CDATA[Test Data  1]]>
+            </line>
+            <line>
+              <![CDATA[status is  failure]]>
+            </line>
+            <line>
+              <![CDATA[Test Data  2]]>
+            </line>
+            <line>
+              <![CDATA[status is  failure]]>
+            </line>
+            <line>
+              <![CDATA[TestCase 3: ]]>
+            </line>
+            <line>
+              <![CDATA[Test Data  1]]>
+            </line>
+            <line>
+              <![CDATA[status is  success]]>
+            </line>
+            <line>
+              <![CDATA[Test Data  2]]>
+            </line>
+            <line>
+              <![CDATA[status is  success]]>
+            </line>
+            <line>
+              <![CDATA[TestCase 6: ]]>
+            </line>
+            <line>
+              <![CDATA[Test Data  1]]>
+            </line>
+            <line>
+              <![CDATA[Input Email is  johndoe@gmail.com]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- driverModule -->
+      </class> <!-- testcase.EmailAPI -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
